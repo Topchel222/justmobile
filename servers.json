@@ -1,8 +1,8 @@
 [
     {
       "color": "FFD700",
-      "dopname": "| Акция #fff00 X3",
-      "maxonline": 100,
+      "dopname": "| Акция (X3)",
+      "maxonline": 100 (Автоонлайн в разработке),
       "name":"Just Bonus",
       "online": 0
     }
