@@ -2,7 +2,7 @@
     {
       "color": "FFD700",
       "dopname": "| Акция (X3)",
-      "maxonline": 100 (Автоонлайн в разработке),
+      "maxonline": 50,
       "name":"Just Bonus",
       "online": 0
     }
