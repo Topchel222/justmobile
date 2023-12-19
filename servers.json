@@ -1,9 +1,8 @@
 [
     {
-      "color": "FFFF00",
-      "dopname": "| Разработка",
-      "maxonline": 50,
-      "name":"Just Bonus",
-      "online": 0
+      "x4": "false",
+      "name": "Just Bonus",
+      "online": 50,
+      "maxonline": 100
     }
-  ]
+ ]
